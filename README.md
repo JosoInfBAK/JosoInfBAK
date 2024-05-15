@@ -43,7 +43,7 @@
     
 ## <h2>📡 Ingeniería de Telecomunicaciones</h2>
 <p align="justify">
-  En esta sección se detallan los trabajos y materias del área de Ingeniería de Telecomunicaciones, con un enfoque en las subcarpetas de ACIR.
+  En esta sección se detallan los trabajos y materias del área de Ingeniería de Telecomunicaciones
 </p>
 
 ### <h3>📁 Estructura de Carpetas</h3>
